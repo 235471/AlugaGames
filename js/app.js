@@ -38,7 +38,6 @@ function modifyHTML(button, change) {
         // toggle will remove the class if it finds it and add if not
         button.classList.toggle('dashboard__item__button--return');
         change.classList.toggle('dashboard__item__img--rented');
-        console.log(button.classList);
         // If after toggle the button contain said class needs to change from rent to return and vice versa.
         button.textContent = button.classList.contains('dashboard__item__button--return') ? 'Devolver' : 'Alugar';    
 }
