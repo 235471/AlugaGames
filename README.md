@@ -7,7 +7,7 @@ This is a simple coding project for practice where a front-end that was availabl
 
 ## Features
 
-- Html and CSS to provide the front-end [vercel](https://draw-numbers-game.vercel.app/).
+- Html and CSS to provide the front-end [vercel](https://aluga-games-orpin.vercel.app/).
 - Javascript for the user interaction with the game.
 
 ## Author
